@@ -1,2 +1,2 @@
-# color-changing-background
-the color turns from a dark color to a light color
+# p5.play-boilerplate
+CLASS 20 PROJECT BOILERPLATE
